@@ -7,6 +7,7 @@ layout: post
 
 
 ## Pursuing Ph.D. in Computer Science.  
+![plot](./National-Central-University.jpg)
 ### National Central University Taiwan
 ![Swiss Alps](https://live.staticflickr.com/8710/17016040685_53bf850e8e_b.jpg)
 
