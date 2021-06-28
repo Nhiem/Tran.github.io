@@ -3,83 +3,27 @@ title:  "My Academic journey"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+“Education is the most powerful weapon which you can use to change the world” – Nelson Mandela
 
 
-## Heading Two (h2)
+## Pursuing Ph.D. in Computer Science.  
+### National Central University Taiwan
+![Swiss Alps](https://live.staticflickr.com/8710/17016040685_53bf850e8e_b.jpg)
 
-### Heading Three (h3)
+Since September 9/2020, my academic career in Ph.D. research is one of the most important steps for my academic career. My engagement in National Central University’s tech & innovation initiative exercise my creative, my patience, sparked my obsession with design, and strengthened my tolerance to adversity. 
+NCU showed me how much what I love to do, what I passionate about, and surrounded me with a wealth of inspiring peers. 
 
-#### Heading Four (h4)
+## M.S Information Technology Application, earned July/2020
+### National Central University Taiwan
+![Swiss Alps](https://www.ncu.edu.tw/assets/thumbs/news/6cf8e5cc8dd1a7315a4e49daa92fe488.jpg)
 
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+I’m grateful for these two years away from home, I learned how to articulate my ideas, and discipline myself, and express my thinking and solution for developing and design application that impacts many other people. This time also taught me how much importance of math, physics, and computer science foundation knowledge. One of the most important of my life these two years was a great moment for me working as a team with many excellent and diverse friends from different countries.
 
 
-## Blockquotes
+## B.S  in Earth Science, earned July/2017
+### Vietnam National University, Ho Chi Minh City 
+![Swiss Alps](https://smapse.com/storage/2019/08/z1-31.jpg)
 
-### Single line
+During these four years in The Earth and Planetary Sciences field, I learned how to investigate and gain my experience in encompasses a broad range of science disciplines and applications to environmental and economic endeavors. I’m was lucky to involve in the development and application of new tools and technologies such as space probes and sophisticated instruments, as well as fieldwork in remote and challenging settings. In an unparalleled research environment and monitoring environment.
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
 
-### Multiline
-
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
-
-## Horizontal Rule
-
----
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
