@@ -1,5 +1,5 @@
 ---
-title:  "My Academic journey"
+title:  "My Academic Journey "
 layout: post
 ---
 
