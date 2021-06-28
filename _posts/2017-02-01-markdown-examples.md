@@ -3,7 +3,7 @@ title:  "My Academic journey"
 layout: post
 ---
 
-“Education is the most powerful weapon which you can use to change the world” – Nelson Mandela
+# “Education is the most powerful weapon which you can use to change the world” – Nelson Mandela
 
 
 ## Pursuing Ph.D. in Computer Science.  
