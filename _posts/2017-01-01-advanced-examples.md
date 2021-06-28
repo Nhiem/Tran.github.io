@@ -24,11 +24,11 @@ This project aims to ensure robust security for all devices, authorization and a
 1. In software: 
 we propose the novel iris recognition algorithm which is increased the robustness performance to overcome the limitation such as the requirement of the expensive image acquisition devices or requirement of well control environmental conditions, the highly expensive computation using deep learning, and the most important is the adaptable transfer of the algorithm in different applications
 + Novel algorithm proposal. 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" width="500" />
 3. In firmware: 
 The first primary open-source hardware platform for the iris recognition, it will serve as the educational platform second it will be the foundation for the future development of iris recognition application in IoTs, and mobiles applications. 
 + Embedded system protype for iris recognition
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="500"/>
 
 ### Eye_tracking eLearning Applications ( 09/2020 -- Present)
 #### Collaborative Research -- Network Learning Technology (NCU)
