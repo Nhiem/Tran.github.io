@@ -8,8 +8,8 @@ layout: post
 
 
 ## Pursuing Ph.D. in Computer Science.  
-![Alt text](./National-Central-University.jpg)
-![Alt text](./maxresdefault.jpg)
+![Screenshot](./National-Central-University.jpg)
+![Screenshot](./maxresdefault.jpg)
 
 Since September 9/2020, my academic career in Ph.D. research is one of the most important steps for my academic career. My engagement in National Central University’s tech & innovation initiative exercise my creative, my patience, sparked my obsession with design, and strengthened my tolerance to adversity. 
 NCU showed me how much what I love to do, what I passionate about, and surrounded me with a wealth of inspiring peers. 
