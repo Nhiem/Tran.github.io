@@ -40,10 +40,12 @@ This project using advanced algorithm and Custome Design Eye_tracking glass used
 Eye_tracking glasses are ideal for studying behavior in real-world situation. Which can be use objectively and accurately record and analyze visual behavior of human visual behavior, in our study we primary focus on eLearning application eye tracking glass as design demonstrate in figure the crucial important to study movements of participant’s eyes in classroom and event in web browsing and others related of student visual focusing. This gives insight into the cognitive processes underlying a wide variety of student behavior and can reveal things such as learning patters and social interaction, It also allows for the screening of typical neurodevelopment and cognitive or perceptual disability.
 
 + Normal glasses
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/glass_3D_View.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_20200422_121707.jpg?raw=true" width="320"/>
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/glass_3D_View.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_20200422_121707.jpg?raw=true"  width="320" height="320"/>
 
 + Outdoor activity Movement glasses
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/google_glass_design.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/goggle_glass.jpg?raw=true" width="320"/> 
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/google_glass_design.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/goggle_glass.jpg?raw=true" width="320" height="320"/> 
 
 2. Advance Algorithm 
 
