@@ -86,9 +86,8 @@ The eye position is analyized by deep learning algorithm to help use much more e
 
 ### III. Iris Recognition Embedded Security smart Door Lock ( 09/2020 - 06/2021)
 
-#### Pr
-
-
+#### Project development for High Security system such Banking application and imgrant application
+This 
 
 
 <!-- 
