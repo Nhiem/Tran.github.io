@@ -9,7 +9,7 @@ layout: post
 
 ## Pursuing Ph.D. in Computer Science.  
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="350" />
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/maxresdefault.jpg?raw=true"  width="800"/>
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/maxresdefault.jpg?raw=true" />
 
 
 Since September 9/2020, my academic career in Ph.D. research is one of the most important steps for my academic career. My engagement in National Central University’s tech & innovation initiative exercise my creative, my patience, sparked my obsession with design, and strengthened my tolerance to adversity. 
@@ -20,8 +20,8 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="350"  />
 
 
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP7446.JPG?raw=true" width="800" />
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP7718.JPG?raw=true" width="800" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP7446.JPG?raw=true" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP7718.JPG?raw=true"  />
 
 
 
