@@ -63,10 +63,23 @@ Eye_tracking glasses are ideal for studying behavior in real-world situation. Wh
 
 2. Advance Algorithm 
 
+we design app that easy to integrate through different system, that easy for user interact, the user interface that can adapt in multiple language with our current develop me manderine and english 
+
+The eye position is analyized by deep learning algorithm to help use much more easy to analyze data and adpath the chaning in different environment and impact of experiment. 
+
++ Pupil position tracking and analysis
+
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/pupil_movment_position_analyz.png?raw=true" width="420"/>"
+
++ Eye_tracking position analysis
+
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/eye_tracking_result.png?raw=true" width="420"/>"
 
 
++ Experiemnt Eye_tracking First Experiment: 
 
-Experiemnt Result: 
+{% include embed.html url="https://youtu.be/8x68074x2_w" %}
+
 
 
 
