@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "My Research Career"
 mathjax: true
 layout: post
 categories: media
