@@ -23,7 +23,8 @@ I’m grateful for these two years away from home, I learned how to articulate m
 
 ## B.S  in Earth Science, earned July/2017
 ### Vietnam National University, Ho Chi Minh City 
-![Swiss Alps](https://smapse.com/storage/2019/08/z1-31.jpg)
+![Swiss Alps](./z1-31.jpg)
+![plot](./_DSC3818.JPG)
 
 During these four years in The Earth and Planetary Sciences field, I learned how to investigate and gain my experience in encompasses a broad range of science disciplines and applications to environmental and economic endeavors. I’m was lucky to involve in the development and application of new tools and technologies such as space probes and sophisticated instruments, as well as fieldwork in remote and challenging settings. In an unparalleled research environment and monitoring environment.
 
