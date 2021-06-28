@@ -18,7 +18,7 @@ While my experiences in undergraduate and graduate have been diverse, research h
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true" width="600"/>
 
 
-### Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
+### I. Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
 
 This project aims to ensure robust security for all devices, authorization and authentication are the critically important factor to strongly against the vulnerability or attack from the internet to billions of our embedded mobiles and IoTs devices now much more asynchronously integrated through the internet.
 
@@ -40,7 +40,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="320"/>
 
 
-### Eye_tracking eLearning Applications ( 09/2020 -- Present)
+### II. Eye_tracking eLearning Applications ( 09/2020 -- Present)
 
 #### Collaborative Research -- Network Learning Technology (NCU)
 
