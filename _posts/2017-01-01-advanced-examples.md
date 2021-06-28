@@ -15,6 +15,8 @@ While my experiences in undergraduate and graduate have been diverse, research h
 
 
 ## Biometric Recognition  -- Computer Vision -- Machine Learning Research 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true"/>
+
 
 ### Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
 
@@ -59,6 +61,8 @@ Eye_tracking glasses are ideal for studying behavior in real-world situation. Wh
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/google_glass_design.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/goggle_glass.jpg?raw=true" width="320" height="320"/> 
 
 2. Advance Algorithm 
+
+
 
 Experiemnt Result: 
 
