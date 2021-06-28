@@ -21,22 +21,33 @@ While my experiences in undergraduate and graduate have been diverse, research h
 This project aims to ensure robust security for all devices, authorization and authentication are the critically important factor to strongly against the vulnerability or attack from the internet to billions of our embedded mobiles and IoTs devices now much more asynchronously integrated through the internet.
 
 #### Project development of both software and firmware: 
+
 1. In software: 
+
 we propose the novel iris recognition algorithm which is increased the robustness performance to overcome the limitation such as the requirement of the expensive image acquisition devices or requirement of well control environmental conditions, the highly expensive computation using deep learning, and the most important is the adaptable transfer of the algorithm in different applications
 + Novel algorithm proposal. 
+
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" width="500" />
+
 3. In firmware: 
-The first primary open-source hardware platform for the iris recognition, it will serve as the educational platform second it will be the foundation for the future development of iris recognition application in IoTs, and mobiles applications. 
+
+The first primary open-source hardware platform for the iris recognition, it will serve as the educational platform second it will be the foundation for the future development of iris recognition application in IoTs, and mobiles applications.
+
 + Embedded system protype for iris recognition
+
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="320"/>
 
+
 ### Eye_tracking eLearning Applications ( 09/2020 -- Present)
+
 #### Collaborative Research -- Network Learning Technology (NCU)
 
 This project using advanced algorithm and Custome Design Eye_tracking glass used to calculate the position of the eye and determine exactly where it is focused and what exact the region it focus can be mapped multiple times a second That aim to study visual behavior. 
-#### Project Scope  Novel Algorithm -- Custom Design Eye_tracking Glass.
+
+####  Project development of both Advance Algorithm and Hardware: 
 
 1. Eye_tracking glasses: 
+
 Eye_tracking glasses are ideal for studying behavior in real-world situation. Which can be use objectively and accurately record and analyze visual behavior of human visual behavior, in our study we primary focus on eLearning application eye tracking glass as design demonstrate in figure the crucial important to study movements of participant’s eyes in classroom and event in web browsing and others related of student visual focusing. This gives insight into the cognitive processes underlying a wide variety of student behavior and can reveal things such as learning patters and social interaction, It also allows for the screening of typical neurodevelopment and cognitive or perceptual disability.
 
 + Normal glasses
