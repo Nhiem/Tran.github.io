@@ -16,11 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "index.html", title: "Experience- Skills", icon: home}
+  - {file: "README.md", title: "Collaborative- Research Interest", icon: address-card}
+  - {file: "blogs.md", title: "Sharing Experience", icon: sharing}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:tvnhiemhmus@g.ncu.edu.tw"}
+  - {title: Mail, icon: envelope, url: "mailto: tvnhiemhmus@g.ncu.edu.tw"}
   - {title: Github, icon: github, url: "https://github.com/Nhiem"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/TranRick1"}
 
