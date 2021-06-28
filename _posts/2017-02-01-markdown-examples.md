@@ -8,7 +8,7 @@ layout: post
 
 
 ## Pursuing Ph.D. in Computer Science.  
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="350" />
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/maxresdefault.jpg?raw=true" />
 
 
@@ -17,7 +17,7 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 
 
 ## M.S Information Technology Application, earned July/2020
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="400" height="300" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="350"  />
 
 
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP7446.JPG?raw=true" />
@@ -30,7 +30,7 @@ I’m grateful for these two years away from home, I learned how to articulate m
 
 ## B.S  in Earth Science, earned July/2017
 
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/440px-VNU-HCM_Full_Logo.png?raw=true" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/440px-VNU-HCM_Full_Logo.png?raw=true" width="350" />
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/z1-31.jpg?raw=true" />
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/22829047_1017720821704376_2161625435514613048_o.jpg?raw=true" >
 
