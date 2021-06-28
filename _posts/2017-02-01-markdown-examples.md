@@ -14,8 +14,11 @@ layout: post
 Since September 9/2020, my academic career in Ph.D. research is one of the most important steps for my academic career. My engagement in National Central University’s tech & innovation initiative exercise my creative, my patience, sparked my obsession with design, and strengthened my tolerance to adversity. 
 NCU showed me how much what I love to do, what I passionate about, and surrounded me with a wealth of inspiring peers. 
 
+
 ## M.S Information Technology Application, earned July/2020
-### National Central University Taiwan
+
+![plot](./National-Central-University.jpg)
+
 ![plot](./IMGP7446.JPG)
 ![plot](./IMGP7718.JPG)
 
