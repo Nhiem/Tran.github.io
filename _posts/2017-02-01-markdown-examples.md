@@ -27,7 +27,7 @@ I’m grateful for these two years away from home, I learned how to articulate m
 
 
 ## B.S  in Earth Science, earned July/2017
-### Vietnam National University, Ho Chi Minh City 
+![plot](./440px-VNU-HCM_Full_Logo.png)
 ![plot](./z1-31.jpg)
 ![plot](./22829047_1017720821704376_2161625435514613048_o.jpg)
 
