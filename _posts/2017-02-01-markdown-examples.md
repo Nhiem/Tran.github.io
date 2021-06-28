@@ -2,7 +2,6 @@
 title:  "My Academic journey"
 layout: post
 ---
-![Swiss Alps](https://live.staticflickr.com/8710/17016040685_53bf850e8e_b.jpg)
 
 # “Education is the most powerful weapon which you can use to change the world” – Nelson Mandela
 
