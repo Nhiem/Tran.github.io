@@ -17,7 +17,7 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 
 
 ## M.S Information Technology Application, earned July/2020
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="200" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="400" height="300" />
 
 
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP7446.JPG?raw=true" />
