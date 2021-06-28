@@ -28,7 +28,7 @@ we propose the novel iris recognition algorithm which is increased the robustnes
 3. In firmware: 
 The first primary open-source hardware platform for the iris recognition, it will serve as the educational platform second it will be the foundation for the future development of iris recognition application in IoTs, and mobiles applications. 
 + Embedded system protype for iris recognition
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="500"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="320"/>
 
 ### Eye_tracking eLearning Applications ( 09/2020 -- Present)
 #### Collaborative Research -- Network Learning Technology (NCU)
