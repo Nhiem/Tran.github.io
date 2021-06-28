@@ -78,13 +78,16 @@ The eye position is analyized by deep learning algorithm to help use much more e
 
 + Our first Eye_tracking experiment: 
 
-{% include embed.html url="https://youtu.be/8x68074x2_w" %}
+{% include embed.html url="https://www.youtube.com/watch?v=8x68074x2_w" %}
 
-
+  
 
 
 
 ### III. Iris Recognition Embedded Security smart Door Lock ( 09/2020 - 06/2021)
+
+#### Pr
+
 
 
 
@@ -147,6 +150,11 @@ The eye position is analyized by deep learning algorithm to help use much more e
  '''
 -->
 
+
 ## My thoughts 
 
 **I believe in innovation and that the way you get innovation is you fund research, Committing myself to the world of scientific research has instilled an investigative mindset and a passion for the scientific process, and an appreciation for the results of engineering design and Innovate.**
+
+
+
+
