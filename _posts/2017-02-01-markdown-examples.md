@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "My Academic journey"
 layout: post
 ---
 
