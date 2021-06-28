@@ -8,8 +8,8 @@ layout: post
 
 
 ## Pursuing Ph.D. in Computer Science.  
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/National-Central-University.jpg)
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/maxresdefault.jpg)
+![Alt text](./National-Central-University.jpg)
+![Alt text](./maxresdefault.jpg)
 
 Since September 9/2020, my academic career in Ph.D. research is one of the most important steps for my academic career. My engagement in National Central University’s tech & innovation initiative exercise my creative, my patience, sparked my obsession with design, and strengthened my tolerance to adversity. 
 NCU showed me how much what I love to do, what I passionate about, and surrounded me with a wealth of inspiring peers. 
@@ -27,9 +27,9 @@ I’m grateful for these two years away from home, I learned how to articulate m
 
 
 ## B.S  in Earth Science, earned July/2017
-![plot](https://github.com/Nhiem/tran.github.io/tree/master/_posts/440px-VNU-HCM_Full_Logo.png)
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/z1-31.jpg)
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/22829047_1017720821704376_2161625435514613048_o.jpg)
+![Alt text](./440px-VNU-HCM_Full_Logo.png)
+![Alt text](./_posts/z1-31.jpg)
+![Alt text](./22829047_1017720821704376_2161625435514613048_o.jpg)
 
 During these four years in The Earth and Planetary Sciences field, I learned how to investigate and gain my experience in encompasses a broad range of science disciplines and applications to environmental and economic endeavors. I’m was lucky to involve in the development and application of new tools and technologies such as space probes and sophisticated instruments, as well as fieldwork in remote and challenging settings. In an unparalleled research environment and monitoring environment.
 
