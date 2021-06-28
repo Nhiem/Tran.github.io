@@ -16,8 +16,8 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 
 ## M.S Information Technology Application, earned July/2020
 ### National Central University Taiwan
-![plot] (./IMGP7446.JPG)
-![plot] (./IMGP7718.JPG)
+![plot](./IMGP7446.JPG)
+![plot](./IMGP7718.JPG)
 
 
 I’m grateful for these two years away from home, I learned how to articulate my ideas, and discipline myself, and express my thinking and solution for developing and design application that impacts many other people. This time also taught me how much importance of math, physics, and computer science foundation knowledge. One of the most important of my life these two years was a great moment for me working as a team with many excellent and diverse friends from different countries.
