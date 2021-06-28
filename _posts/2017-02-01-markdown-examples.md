@@ -4,6 +4,7 @@ layout: post
 ---
 
 # “Education is the most powerful weapon which you can use to change the world” – Nelson Mandela
+![Swiss Alps](https://live.staticflickr.com/8710/17016040685_53bf850e8e_b.jpg)
 
 
 ## Pursuing Ph.D. in Computer Science.  
@@ -18,6 +19,7 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 ## M.S Information Technology Application, earned July/2020
 <img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/National-Central-University.jpg?raw=true" />
 
+
 <img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/IMGP7446.JPG?raw=true" />
 <img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/IMGP7718.JPG?raw=true" />
 
@@ -30,7 +32,7 @@ I’m grateful for these two years away from home, I learned how to articulate m
 
 <img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/440px-VNU-HCM_Full_Logo.png?raw=true" />
 <img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/z1-31.jpg?raw=true" />
-<img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/22829047_1017720821704376_2161625435514613048_o.jpg?raw=true" />
+<img src="https://github.com/Nhiem/tran.github.io/edit/master/_posts/22829047_1017720821704376_2161625435514613048_o.jpg?raw=true" >
 
 During these four years in The Earth and Planetary Sciences field, I learned how to investigate and gain my experience in encompasses a broad range of science disciplines and applications to environmental and economic endeavors. I’m was lucky to involve in the development and application of new tools and technologies such as space probes and sophisticated instruments, as well as fieldwork in remote and challenging settings. In an unparalleled research environment and monitoring environment.
 
