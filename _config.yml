@@ -16,16 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Experience- Skills", }
-  - {file: "README.md", title: "Collaborative- Research Interest", }
-  - {file: "blogs.md", title: "Sharing Experience", icon: sharing}
+  - {file: "index.html", title: "Education Background", }
+  - {file: "README.md", title: "Research Experience",  }
+  - {file: "/Tran-Van-Nhiem-CV.pdf", title: "CV", icon: home}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: tvnhiemhmus@g.ncu.edu.tw"}
   - {title: Github, icon: github, url: "https://github.com/Nhiem"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/TranRick1"}
-  - {title: Contact, icon: phone, "+886 934-311-751"}
+  - {title: Contact, icon: phone, 886 934-311-751}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
