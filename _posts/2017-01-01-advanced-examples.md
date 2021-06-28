@@ -29,7 +29,7 @@ This project aims to ensure robust security for all devices, authorization and a
 we propose the novel iris recognition algorithm which is increased the robustness performance to overcome the limitation such as the requirement of the expensive image acquisition devices or requirement of well control environmental conditions, the highly expensive computation using deep learning, and the most important is the adaptable transfer of the algorithm in different applications
 + Novel algorithm proposal. 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" width="500" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" width="700" />
 
 3. In firmware: 
 
