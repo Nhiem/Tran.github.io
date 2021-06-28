@@ -15,7 +15,7 @@ While my experiences in undergraduate and graduate have been diverse, research h
 
 
 ## Biometric Recognition  -- Computer Vision -- Machine Learning Research 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true" width="600"/>
 
 
 ### Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
