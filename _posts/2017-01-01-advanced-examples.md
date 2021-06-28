@@ -1,14 +1,61 @@
 ---
-title:  "My Research Career"
+title:  "Research Career"
 mathjax: true
 layout: post
 categories: media
 ---
+# “Research is something that everyone can do, and everyone ought to do. It is simply collecting information and thinking systematically about it.” - Raewyn Connell
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
+# Collaborative and Independents Research
 
-## MathJax
+While my experiences in undergraduate and graduate have been diverse, research has unquestionably been the most important and rewarding component of my education.  Research has proven to be a fantastic supplement to my undergraduate, and graduate-level. Learning to explore and innovate strengthens my conceptual understanding of the material taught in my science classes and leading to an improvement in my academics performance. As I became more involved in research outside of the classroom.
+
+
+
+## Biometric Recognition  -- Computer Vision -- Machine Learning Research 
+
+### Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
+
+This project aims to ensure robust security for all devices, authorization and authentication are the critically important factor to strongly against the vulnerability or attack from the internet to billions of our embedded mobiles and IoTs devices now much more asynchronously integrated through the internet.
+
+#### Project development of both software and firmware: 
+1. In software: 
+we propose the novel iris recognition algorithm which is increased the robustness performance to overcome the limitation such as the requirement of the expensive image acquisition devices or requirement of well control environmental conditions, the highly expensive computation using deep learning, and the most important is the adaptable transfer of the algorithm in different applications
++ Novel algorithm proposal. 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" />
+3. In firmware: 
+The first primary open-source hardware platform for the iris recognition, it will serve as the educational platform second it will be the foundation for the future development of iris recognition application in IoTs, and mobiles applications. 
++ Embedded system protype for iris recognition
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true" />
+
+### Eye_tracking eLearning Applications ( 09/2020 -- Present)
+#### Collaborative Research -- Network Learning Technology (NCU)
+
+This project using advanced algorithm and Custome Design Eye_tracking glass used to calculate the position of the eye and determine exactly where it is focused and what exact the region it focus can be mapped multiple times a second That aim to study visual behavior. 
+#### Project Scope  Novel Algorithm -- Custom Design Eye_tracking Glass.
+
+1. Eye_tracking glasses: 
+Eye_tracking glasses are ideal for studying behavior in real-world situation. Which can be use objectively and accurately record and analyze visual behavior of human visual behavior, in our study we primary focus on eLearning application eye tracking glass as design demonstrate in figure the crucial important to study movements of participant’s eyes in classroom and event in web browsing and others related of student visual focusing. This gives insight into the cognitive processes underlying a wide variety of student behavior and can reveal things such as learning patters and social interaction, It also allows for the screening of typical neurodevelopment and cognitive or perceptual disability.
+
++ Normal glasses
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/glass_3D_View.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_20200422_121707.jpg?raw=true" width="320"/>
+
++ Outdoor activity Movement glasses
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/google_glass_design.PNG?raw=true" width="320"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/goggle_glass.jpg?raw=true" width="320"/> 
+
+2. Advance Algorithm 
+
+Experiemnt Result: 
+
+
+
+
+
+
+
+
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
@@ -61,3 +108,7 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
 {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+
+## My thoughts 
+
+**I believe in innovation and that the way you get innovation is you fund research, Committing myself to the world of scientific research has instilled an investigative mindset and a passion for the scientific process, and an appreciation for the results of engineering design and Innovate.**
