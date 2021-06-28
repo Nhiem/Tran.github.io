@@ -17,17 +17,17 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 
 ## M.S Information Technology Application, earned July/2020
 
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/National-Central-University.jpg)
+![Alt text](https://github.com/Nhiem/tran.github.io/tree/master/_posts/National-Central-University.jpg)
 
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/IMGP7446.JPG)
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/IMGP7718.JPG)
+![Alt text](https://github.com/Nhiem/tran.github.io/tree/master/_posts/IMGP7446.JPG)
+![Alt text](https://github.com/Nhiem/tran.github.io/tree/master/_posts/IMGP7718.JPG)
 
 
 I’m grateful for these two years away from home, I learned how to articulate my ideas, and discipline myself, and express my thinking and solution for developing and design application that impacts many other people. This time also taught me how much importance of math, physics, and computer science foundation knowledge. One of the most important of my life these two years was a great moment for me working as a team with many excellent and diverse friends from different countries.
 
 
 ## B.S  in Earth Science, earned July/2017
-![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/440px-VNU-HCM_Full_Logo.png)
+![plot](https://github.com/Nhiem/tran.github.io/tree/master/_posts/440px-VNU-HCM_Full_Logo.png)
 ![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/z1-31.jpg)
 ![Swiss Alps](https://github.com/Nhiem/tran.github.io/tree/master/_posts/22829047_1017720821704376_2161625435514613048_o.jpg)
 
