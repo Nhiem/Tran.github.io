@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto: tvnhiemhmus@g.ncu.edu.tw"}
   - {title: Github, icon: github, url: "https://github.com/Nhiem"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/TranRick1"}
+  - {title: Contact, icon: phone, "+886 934-311-751"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
