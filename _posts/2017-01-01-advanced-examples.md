@@ -88,6 +88,9 @@ The eye position is analyized by deep learning algorithm to help use much more e
 
 
 
+<!-- 
+
+
 '''
      You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
@@ -142,6 +145,7 @@ The eye position is analyized by deep learning algorithm to help use much more e
     {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
 
  '''
+-->
 
 ## My thoughts 
 
