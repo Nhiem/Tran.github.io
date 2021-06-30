@@ -95,10 +95,10 @@ Course Content and Schedule:
 
 **Course Activity Supporting Student Final Project**
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring1.JPG?raw=true"  width="400" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/IMG_7231.JPG?raw=true"  width="400" height="400"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring1.JPG?raw=true"  width="300" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/IMG_7231.JPG?raw=true"  width="300" height="400"/>
 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="400" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="400" height="400"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="300" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="300" height="400"/>
 
 
 
