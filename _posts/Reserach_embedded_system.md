@@ -33,6 +33,7 @@ The 8-channel Line Impedance Analyzer TDR1500x8 SYMPULS is shown in Fig 3 (a). T
 Fig 2 Diagram shown TDR DAQ configure in centrifuge DAQ system.
 
 
+
 TDR impedance analyzer is embedded in centrifuge DAQ system by connecting with computer PA-2000 by connecting through USB protocol port as shown in Fig.2 The system can access the TDR console in the control room, and utilize the LabVIEW program to launch the acquisition sequence at the mounted PC through the remote desktop program. LabVIEW program was written for continuous taking TDR waveform reflection during testing, and the program interface is shown in Fig.3. (b).
                                     
 
