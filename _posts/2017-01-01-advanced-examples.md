@@ -84,11 +84,11 @@ The eye position is analyized by deep learning algorithm to help use much more e
 
 
 
-### III. Iris Recognition Embedded Security smart Door Lock ( 09/2020 - 06/2021)
-
-
 
 <!-- 
+
+
+### III. Iris Recognition Embedded Security smart Door Lock ( 09/2020 - 06/2021)
 
 
 '''
