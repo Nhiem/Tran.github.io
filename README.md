@@ -30,6 +30,7 @@ Progrma Language C++, This coures objective is putting in to practice the concep
 
 
 **Class Activity** 
+
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/c++_class.JPG?raw=true" width="500"/>
 
 
@@ -60,7 +61,8 @@ Course Content and Schedule: ( Virtual Instrument Control Programming )
 9. The art of programming
 
 **Class Activity** 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/labview.JPG?raw=true" width="500"/>
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/labview_class.JPG?raw=true" width="500"/>
 
 
 **Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/labview_syllabus.pdf" target="_blank">PDF.</a>
@@ -93,10 +95,10 @@ Course Content and Schedule:
 
 **Course Activity Supporting Student Final Project**
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring1.JPG?raw=true" width="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/IMG_7231.JPG?raw=true" width="400"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring1.JPG?raw=true"  width="400" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/IMG_7231.JPG?raw=true"  width="400" height="400"/>
 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="400"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="400" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="400" height="400"/>
 
 
 
