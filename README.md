@@ -33,15 +33,24 @@ Progrma Language C++, This coures objective is putting in to practice the concep
 1.Introduction (Survey of Students’ Programming Background)
 (IDE, Integrated Development Environment)
 2. Introduction to Programming, Data Types, Variables, and Operators
-3. Data Types, Variables, and Operators
-4. Iterated Loops I, II
-5. Pointer
-6. Array
-7. String
-8. Funtion I, II
-9. Class, Object, Instance, and Static I
-10. Encapsulation, Inheritance and Polymorphism
-11. Numerical method
+
+4. Data Types, Variables, and Operators
+
+6. Iterated Loops I, II
+
+8. Pointer
+
+10. Array
+
+12. String
+
+13. Funtion I, II
+
+14. Class, Object, Instance, and Static I
+
+15. Encapsulation, Inheritance and Polymorphism
+
+16. Numerical method
 
 
 **Class Activity** 
