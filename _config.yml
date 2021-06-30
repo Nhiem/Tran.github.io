@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home }
   - {file: "README.md", title: "Teaching Assistant Experience",  }
-  - {title: CV, icon: cv, url: "https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" }
+  - {file: "tran_cv.md", title: "CV"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
