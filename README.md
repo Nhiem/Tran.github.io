@@ -7,7 +7,7 @@ layout: post
 
 **Acknowledge my Master's advisor Dr. Chung, Chih Chung provided invaluable guidance for me throughout a teaching assistant experience and my master program.** 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/picture_with_prof_chung.JPG?raw=true" width="600"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/picture_with_prof_chung.JPG?raw=true" width="450"/>
 
 
 
