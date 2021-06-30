@@ -5,14 +5,26 @@ layout: post
 ---
 
 
-Acknowledge my Master's Advisor Dr Chung, Chi Chung help me along the ways during my time as the master Program
+**Acknowledge my Master's Advisor Dr Chung, Chih Chung help me along the ways during my time as a teaching assistant.** 
 
-My experimence as assistant Teaching course include Engineering Programming including C++ and LabVIEW graphic program Language, Embedded IoTs monitoring 
-During Teaching I have learn how to explain and express my knowledge to help other students during the course. 
+My assistant teaching experimence that help me strengthen, sharing my knowledge, helping other student learn and imporve their skills. 
 
-## 
+## **Course Participated:** 
++ Engineering Programming C++. 
++ LabVIEW graphic program Language, 
++ Embedded IoTs monitoring 
 
-## I. **Course: Labview Programming Design**
+
+## **I. Programing for Engineering C++**
+
+This course teaches fundamental computer concepts and programming skills for engineering applications. Emphasis is focused on object-oriented programming. Assignments cover programming concepts, user interfaces, numerical methods, data structures, algorithms, and selected advanced topics. The C++ programming language is used.
+Progrma Language C++, This coures objective is putting in to practice the concepts from the book and lectures to solve more and more complex problems using more and more sophisticated programming practices.
+
+Course Content and Schedule: 
+
+
+
+## **II.Labview Programming Design**
 
 Course Content and Schedule: ( Virtual Instrument Control Programming )
 
@@ -41,8 +53,7 @@ Course Content and Schedule: ( Virtual Instrument Control Programming )
 
 
 
-
-## Course: Environmental and Disaster Monitoring Practice
+##  **III. Environmental and Disaster Monitoring Practice**
 
 Course Content and Schedule:
 
