@@ -44,7 +44,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 #### Collaborative Research -- Network Learning Technology (NCU)
 
-This project using advanced algorithm and Custome Design Eye_tracking glass used to calculate the position of the eye and determine exactly where it is focused and what exact the region it focus can be mapped multiple times a second That aim to study visual behavior. 
+This project uses an advanced algorithm and customized eyeglasses to study the visual behaviour for eLearning training and physical classroom. The project captures and analyses the user's visual behaviour objectively and precisely. In our study, we primarily focus on understanding the cognitive processes underlying a variety of student behaviour. This project can reveal patterns of learning and social interactions, it also enables the screening of typical neurological development and cognitive or perceptual disability.
 
 
 ####  Project development of both Advance Algorithm and Hardware: 
@@ -79,9 +79,6 @@ The eye position is analyized by deep learning algorithm to help use much more e
 + Our first Eye_tracking experiment: 
 
 {% include embed.html url="https://www.youtube.com/watch?v=8x68074x2_w" %}
-
-
-
 
 
 
