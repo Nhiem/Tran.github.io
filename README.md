@@ -33,7 +33,7 @@ Progrma Language C++, This coures objective is putting in to practice the concep
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/c++_class.JPG?raw=true" width="500"/>
 
 
-**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/c++_sylabus.pdf" target="_blank">PDF.</a>
 
 
 
@@ -60,10 +60,10 @@ Course Content and Schedule: ( Virtual Instrument Control Programming )
 9. The art of programming
 
 **Class Activity** 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/c++_class.JPG?raw=true" width="500"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/labview.JPG?raw=true" width="500"/>
 
 
-**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/labview_syllabus.pdf" target="_blank">PDF.</a>
 
 
 **Class Final Project Demonstration**
@@ -86,17 +86,17 @@ Course Content and Schedule:
 
 6. Planning Monitoring Program
 
-**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/IoT_embedded_monitoring_syllabus.pdf" target="_blank">PDF.</a>
 
 **Online Class Material**
 
 
 **Course Activity Supporting Student Final Project**
 
-image 1
-image 2
-image 3
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring1.JPG?raw=true" width="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/IMG_7231.JPG?raw=true" width="400"/>
 
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="400"/>
 
 
 
