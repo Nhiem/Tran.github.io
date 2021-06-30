@@ -28,6 +28,21 @@ This course teaches fundamental computer concepts and programming skills for eng
 
 Progrma Language C++, This coures objective is putting in to practice the concepts from the book and lectures to solve more and more complex problems using more and more sophisticated programming practices.
 
+### Course Content:
+
+1.Introduction (Survey of Students’ Programming Background)
+(IDE, Integrated Development Environment)
+2. Introduction to Programming, Data Types, Variables, and Operators
+3. Data Types, Variables, and Operators
+4. Iterated Loops I, II
+5. Pointer
+6. Array
+7. String
+8. Funtion I, II
+9. Class, Object, Instance, and Static I
+10. Encapsulation, Inheritance and Polymorphism
+11. Numerical method
+
 
 **Class Activity** 
 
@@ -40,7 +55,8 @@ Progrma Language C++, This coures objective is putting in to practice the concep
 
 ## **II.Labview Programming Design**
 
-Course Content and Schedule: ( Virtual Instrument Control Programming )
+
+### Course Content:
 
 1. Introduction to the LabVIEW Environment
 
@@ -88,9 +104,9 @@ Course Content and Schedule:
 
 6. Planning Monitoring Program
 
+
 **Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/IoT_embedded_monitoring_syllabus.pdf" target="_blank">PDF.</a>
 
-**Online Class Material**
 
 
 **Course Activity Supporting Student Final Project**
