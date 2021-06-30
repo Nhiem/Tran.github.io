@@ -78,12 +78,12 @@ The eye position is analyized by deep learning algorithm to help use much more e
 
 + Our first Eye_tracking experiment: 
 
-{% include embed.html url="https://www.youtube.com/embed?8x68074x2_w" %}
+{% include embed.html url="https://www.youtube.com/embed/8x68074x2_w" %}
 
 
 
 <!-- 
-
+{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
 
 ### III. Iris Recognition Embedded Security smart Door Lock ( 09/2020 - 06/2021)
 
