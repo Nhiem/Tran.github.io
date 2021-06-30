@@ -123,7 +123,7 @@ Course Content and Schedule:
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring1.JPG?raw=true"  width="300" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/IMG_7231.JPG?raw=true"  width="350" height="400"/>
 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="300" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="350" height="400"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring3.JPG?raw=true" width="300" height="400"/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/monitoring4.JPG?raw=true" width="380" height="400"/>
 
 
 
