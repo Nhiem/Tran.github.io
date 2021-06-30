@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-
+<!-- 
 ## Installation
 
 
@@ -50,3 +50,4 @@ Contrast comes preinstalled with a leightweight alternative to MathJax called [K
 
 '''
 
+-->
