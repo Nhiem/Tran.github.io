@@ -14,10 +14,11 @@ layout: post
 My assistant teaching experimence provides and help strengthen my skills, sharing my knowledge, and helping other student to learn much more efficient and imporve their skills. 
 
 ## **Course Participated:** 
+
 + Engineering Programming C++. 
-+ 
+
 + LabVIEW graphic program Language,
-+  
+
 + Embedded IoTs monitoring 
 
 
@@ -27,10 +28,12 @@ This course teaches fundamental computer concepts and programming skills for eng
 
 Progrma Language C++, This coures objective is putting in to practice the concepts from the book and lectures to solve more and more complex problems using more and more sophisticated programming practices.
 
-Course Content and Schedule: 
 
-**Course Syllabus**
-<a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+**Class Activity** 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/c++_class.JPG?raw=true" width="500"/>
+
+
+**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
 
 
 
@@ -56,11 +59,14 @@ Course Content and Schedule: ( Virtual Instrument Control Programming )
 
 9. The art of programming
 
-**Course Syllabus Information** 
-<a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+**Class Activity** 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/c++_class.JPG?raw=true" width="500"/>
 
 
-**Course Class Project Demonstration**
+**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+
+
+**Class Final Project Demonstration**
 
 
 
@@ -80,13 +86,13 @@ Course Content and Schedule:
 
 6. Planning Monitoring Program
 
-**Course Syllabus**
-<a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+**Course Syllabus** <a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
 
 **Online Class Material**
 
 
-### Course Activity Supporting student during Teaching assistance Period 
+**Course Activity Supporting Student Final Project**
+
 image 1
 image 2
 image 3
