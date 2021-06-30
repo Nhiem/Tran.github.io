@@ -5,22 +5,32 @@ layout: post
 ---
 
 
-**Acknowledge my Master's Advisor Dr Chung, Chih Chung help me along the ways during my time as a teaching assistant.** 
+**Acknowledge my Master's advisor Dr. Chung, Chih Chung provided invaluable guidance for me throughout a teaching assistant experience and my master program.** 
 
-My assistant teaching experimence that help me strengthen, sharing my knowledge, helping other student learn and imporve their skills. 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/picture_with_prof_chung.JPG?raw=true" width="600"/>
+
+
+
+My assistant teaching experimence provides and help strengthen my skills, sharing my knowledge, and helping other student to learn much more efficient and imporve their skills. 
 
 ## **Course Participated:** 
 + Engineering Programming C++. 
-+ LabVIEW graphic program Language, 
++ 
++ LabVIEW graphic program Language,
++  
 + Embedded IoTs monitoring 
 
 
 ## **I. Programing for Engineering C++**
 
 This course teaches fundamental computer concepts and programming skills for engineering applications. Emphasis is focused on object-oriented programming. Assignments cover programming concepts, user interfaces, numerical methods, data structures, algorithms, and selected advanced topics. The C++ programming language is used.
+
 Progrma Language C++, This coures objective is putting in to practice the concepts from the book and lectures to solve more and more complex problems using more and more sophisticated programming practices.
 
 Course Content and Schedule: 
+
+**Course Syllabus**
+<a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
 
 
 
@@ -47,6 +57,7 @@ Course Content and Schedule: ( Virtual Instrument Control Programming )
 9. The art of programming
 
 **Course Syllabus Information** 
+<a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
 
 
 **Course Class Project Demonstration**
@@ -69,7 +80,11 @@ Course Content and Schedule:
 
 6. Planning Monitoring Program
 
+**Course Syllabus**
+<a href="https://github.com/Nhiem/tran.github.io/blob/master/tran_cv.pdf" target="_blank">PDF.</a>
+
 **Online Class Material**
+
 
 ### Course Activity Supporting student during Teaching assistance Period 
 image 1
