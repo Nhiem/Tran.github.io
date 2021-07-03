@@ -24,12 +24,32 @@ This project aims to ensure robust security for all devices, authorization and a
 
 #### Project development of both software and firmware: 
 
-1. In software: 
+**1. In software:** 
 
 we propose the novel iris recognition algorithm which is increased the robustness performance to overcome the limitation such as the requirement of the expensive image acquisition devices or requirement of well control environmental conditions, the highly expensive computation using deep learning, and the most important is the adaptable transfer of the algorithm in different applications
-+ Novel algorithm proposal. 
+
++ **Novel algorithm proposal.** 
+
+The End-to-End iris recognition pipeline is illustrated in Figure 1. The first part of the pipeline is the new deep decoder-encoder architecture base convolution neural network that generates iris segmentation and iris mask. The iris segmentation determines the inner and outer boundary of the iris, and the generated iris mask is used to select the iris and eliminate the non-iris region. The second part of the pipeline highlight two different approaches for extracting the Iris pattern,(1) the method is based on the traditional approach include the Gabo filter method. (2) the method based on deep learning by design FCN (Fully convolution model) is combined with the convolution attention module.Third, the identification between multiple IrisCodes evaluate by using Harming distance;
+
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/flow_chart_iris_Recognition.png?raw=true" width="700" />
+
+Figure 1: End to end security identification iris recognition pipeline.
+
+
++ Collaborative Optimization Algorithm 
+
+In this study, we develop a collaborative optimization technique for iris recognition as shown in Figure 2, the method with combining various techniques. This includes model weight pruning, clustering, and quantization during training. Our main goal is to reduce the memory footprint, and complexity of the model needed to run large neural networks of inference on a device with limited memory, storage, and power.
+
+We deploy the model’s collaborative optimizing weight pruning technique to eliminate the redundant connection while retaining meaning and informational connection, and followed by applying weight clustering which will share the same weight across multiple connections. Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training.
+
+
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Collaborative_optimization.png?raw=true" width="600" />
+
+Figure2: Deep collaborative optimization combination algorithm.
+
 
 3. In firmware: 
 
@@ -37,7 +57,15 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 + Embedded system protype for iris recognition
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="320"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="400"/>
+
+
+
++ Our Demonstrate of our End_to_End Security Identification Iris Recognition: 
+
+{% include embed.html url="https://www.youtube.com/embed/jjNKqPcei8Y" %}
+
+
 
 
 ### II. Eye_tracking eLearning Applications ( 09/2020 -- Present)
