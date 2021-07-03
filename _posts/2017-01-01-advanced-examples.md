@@ -51,7 +51,7 @@ We deploy the model’s collaborative optimizing weight pruning technique to eli
 Figure2: Deep collaborative optimization combination algorithm.
 
 
-3. In firmware: 
+**2. In firmware:** 
 
 The first primary open-source hardware platform for the iris recognition, it will serve as the educational platform second it will be the foundation for the future development of iris recognition application in IoTs, and mobiles applications.
 
@@ -61,7 +61,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 
 
-+ Our Demonstrate of our End_to_End Security Identification Iris Recognition: 
++ **Our Demonstrate End_to_End Security Identification Iris Recognition:** 
 
 {% include embed.html url="https://www.youtube.com/embed/jjNKqPcei8Y" %}
 
