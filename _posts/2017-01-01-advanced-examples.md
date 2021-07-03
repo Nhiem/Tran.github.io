@@ -46,7 +46,7 @@ We deploy the model’s collaborative optimizing weight pruning technique to eli
 
 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Collaborative_optimization.png?raw=true" width="600" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Collaborative_optimization.png?raw=true" width="800" />
 
 Figure2: Deep collaborative optimization combination algorithm.
 
