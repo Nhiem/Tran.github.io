@@ -16,6 +16,7 @@ Since September 9/2020, my academic career in Ph.D. research is one of the most 
 NCU showed me how much what I love to do, what I passionate about, and surrounded me with a wealth of inspiring peers. 
 
 Im so happy to continue my journey at NCU-Delta Machine Learning Vision Research Lab. Im excited to contribute my efforts as a driven, passionate and exceptional on the design applications for embedded machine learning, integrate machine learning applications, and biometric recognition for security applications. 
+
 <!-- 
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1039.JPG?raw=true" width="400" /> 
 --> 
