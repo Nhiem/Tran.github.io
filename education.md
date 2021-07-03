@@ -17,7 +17,7 @@ NCU showed me how much what I love to do, what I passionate about, and surrounde
 
 Im so happy to continue my journey in NCU-Delta Machine Learning Vision Research Lab, Im excited to contribute my research efforts as a driven, passionate and exceptional on the design of applications for embedded machine learning, integrate machine learning applications and biometric recognition for security applications. 
 
-<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1039.jpg?raw=true" width="400" /> <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1011.jpg?raw=true"  width="400" />
+<img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1039.JPG?raw=true" width="400" /> <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1011.jpg?raw=true"  width="400" />
 
 
 
