@@ -48,7 +48,7 @@ We deploy the model’s collaborative optimizing weight pruning technique to eli
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Collaborative_optimization.png?raw=true" width="800" />
 
-Figure2: Deep collaborative optimization combination algorithm.
+Figure 2: Deep collaborative optimization combination algorithm.
 
 
 **2. In firmware:** 
@@ -61,7 +61,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 
 
-+ **Our Demonstrate End_to_End Security Identification Iris Recognition:** 
++ **Our Demonstrate End_to_End Security Identification Iris Recognition** 
 
 {% include embed.html url="https://www.youtube.com/embed/jjNKqPcei8Y" %}
 
