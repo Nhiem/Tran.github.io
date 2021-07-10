@@ -10,8 +10,7 @@ categories: media
 
 # Collaborative and Independents Research
 
-While my experiences in undergraduate and graduate have been diverse, research has unquestionably been the most important and rewarding component of my education.  Research has proven to be a fantastic supplement to my undergraduate, and graduate-level. Learning to explore and innovate strengthens my conceptual understanding of the material taught in my science classes and leading to an improvement in my academics performance. As I became more involved in research outside of the classroom.
-
+While at the undergraduate and graduate levels. The diverse topics include science, engineering, mathematics, program languages, and many others that foundation for my current and future research. Research has unquestionably been the most important and rewarding component of my education.  It also has proven to be a fantastic supplement to my undergraduate, and graduate-level. Learning, exploring, and innovating are strengths conceptual understanding of the material taught in science classes in my academics performance. Now myself has become more involved in research outside of the classroom.
 
 
 ## Biometric Recognition  -- Computer Vision -- Machine Learning Research 
@@ -20,7 +19,7 @@ While my experiences in undergraduate and graduate have been diverse, research h
 
 ### I. Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
 
-This project aims to ensure robust security for all devices, authorization and authentication are the critically important factor to strongly against the vulnerability or attack from the internet to billions of our embedded mobiles and IoTs devices now much more asynchronously integrated through the internet.
+This project aims to ensure robust security for all devices, authorization, and authentication are the critically important factor to strongly against the vulnerability or attack from the internet to billions of our embedded mobiles and IoT devices now much more asynchronously integrated through the internet.
 
 #### Project development of both software and firmware: 
 
@@ -72,7 +71,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 #### Collaborative Research -- Network Learning Technology (NCU)
 
-This project uses an advanced algorithm and customized eyeglasses to study the visual behaviour for eLearning training and physical classroom. The project captures and analyses the user's visual behaviour objectively and precisely. In our study, we primarily focus on understanding the cognitive processes underlying a variety of student behaviour. This project can reveal patterns of learning and social interactions, it also enables the screening of typical neurological development and cognitive or perceptual disability.
+This project uses an advanced algorithm and customized eyeglasses to study the visual behavior for eLearning training and the physical classroom. The project captures and analyses the user's visual behavior objectively and precisely. In our study, we primarily focus on understanding the cognitive processes underlying a variety of student behavior. This project can reveal patterns of learning and social interactions, it also enables the screening of typical neurological development and cognitive or perceptual disability.
 
 
 ####  Project development of both Advance Algorithm and Hardware: 
