@@ -10,6 +10,7 @@ categories: media
 Research and Experiment Conducted on Centrifuge Machine in National Central University 
 
 **NCU Centrifuge Maching**
+
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP8079.JPG?raw=true" width="700" /> 
                                                                                                 
 This study proposed the development embedded TDR (Time Domain Reflectometry) system integrated with centrifuge reverse fault physical modeling to simulate sliding at depth to simulate the shear plane in the centrifuge modeling at the different earth gravity levels. 
