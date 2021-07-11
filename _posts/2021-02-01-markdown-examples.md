@@ -1,5 +1,5 @@
 ---
-title:  "TinyML -- Binary Neural Networks"
+title:  "TinyML -- Collaborative Optimization -- Binary Neural Networks"
 mathjax: true
 layout: post
 categories: media
