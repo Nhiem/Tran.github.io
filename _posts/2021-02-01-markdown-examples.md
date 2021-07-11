@@ -1,9 +1,12 @@
 ---
-title:  "AutoML(Network Architecture Search) -- TinyML -- Binary Neural Network"
+title:  "TinyML -- Binary Neural Network for Edge, Embedded Devices Applications"
 mathjax: true
 layout: post
 categories: media
 ---
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyML/tinyml_MCU.png?raw=true" />
+
 
 
 Deep learning has been the exponential growth and great attention and tremendous investments on many scientist, laboratories and organization all around the world. 
