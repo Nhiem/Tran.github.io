@@ -1,5 +1,5 @@
 ---
-title:  "Research In Embedded System "
+title:  "Embedded System Project"
 mathjax: true
 layout: post
 categories: media
