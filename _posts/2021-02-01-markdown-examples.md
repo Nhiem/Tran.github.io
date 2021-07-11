@@ -1,10 +1,10 @@
 ---
-title:  "TinyML -- Binary Neural Network for Edge, Embedded Devices Applications"
+title:  "TinyML -- Binary Neural Networks"
 mathjax: true
 layout: post
 categories: media
 ---
-## Bringing Machine Learning Algorithm for Microcontroller (MCU) and Embedded CPUs.  
+## Bringing Machine Learning Algorithm for Microcontroller(MCU), Edge, Embedded Devices.  
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/tinyml_MCU.png?raw=true" />
 
