@@ -170,7 +170,7 @@ The eye position is analyized by deep learning algorithm to help use much more e
     {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
 
  '''
--->
+
 ## III. Integrated TDR monitoring system on physical modelling for disaster prevention. (08/2019-07/2020) 
 
 Research and Experiment Conducted on Centrifuge Machine in National Central University 
@@ -209,7 +209,7 @@ TDR impedance analyzer is embedded in centrifuge DAQ system by connecting with c
 Fig 3. TDR transmission line impedance analyzer TDR1500*8 SYMPULS, (b) LabVIEW program interface controls TDR analyzer for taking waveform reflection.
                                                                                                 
 
-
+-->
 
 
 ## My thoughts 
