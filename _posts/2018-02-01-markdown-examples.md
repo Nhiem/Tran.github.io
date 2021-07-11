@@ -9,7 +9,7 @@ categories: media
 
 Research and Experiment Conducted on Centrifuge Machine in National Central University 
 
-**NCU Centrifuge Maching**
+**NCU Centrifuge Machine**
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMGP8079.JPG?raw=true" width="700" /> 
                                                                                                 
