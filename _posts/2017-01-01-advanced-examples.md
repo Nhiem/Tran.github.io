@@ -4,17 +4,15 @@ mathjax: true
 layout: post
 categories: media
 ---
-# “Research is something that everyone can do, and everyone ought to do. It is simply collecting information and thinking systematically about it.” - Raewyn Connell
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+# Biometric Recognition  -- Computer Vision -- Machine Learning Research 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true" width="600"/>
 
-# Collaborative and Independents Research
+
+## Collaborative and Independents Research
 
 While at the undergraduate and graduate levels. The diverse topics include science, engineering, mathematics, program languages, and many others that foundation for my current and future research. Research has unquestionably been the most important and rewarding component of my education.  It also has proven to be a fantastic supplement to my undergraduate, and graduate-level. Learning, exploring, and innovating are strengths conceptual understanding of the material taught in science classes in my academics performance. Now myself has become more involved in research outside of the classroom.
 
-
-## Biometric Recognition  -- Computer Vision -- Machine Learning Research 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true" width="600"/>
 
 
 ### I. Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 - Present)
@@ -213,5 +211,6 @@ Fig 3. TDR transmission line impedance analyzer TDR1500*8 SYMPULS, (b) LabVIEW p
 
 
 ## My thoughts 
+**“Research is something that everyone can do, and everyone ought to do. It is simply collecting information and thinking systematically about it.” - Raewyn Connell**
 
 **I believe in innovation and that the way you get innovation is you fund research, Committing myself to the world of scientific research has instilled an investigative mindset and a passion for the scientific process, and an appreciation for the results of engineering design and Innovate.**
