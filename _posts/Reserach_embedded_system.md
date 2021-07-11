@@ -1,6 +1,8 @@
 ---
 title:  "Research In Embedded System "
+mathjax: true
 layout: post
+categories: media
 ---
 
 ## III. Integrated TDR monitoring system on physical modelling for disaster prevention. (08/2019-07/2020) 
