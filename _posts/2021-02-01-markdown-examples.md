@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyML/tinyml_MCU.png?raw=true" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/tinyml_MCU.png?raw=true" />
 
 
 
