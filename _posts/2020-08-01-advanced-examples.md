@@ -34,6 +34,9 @@ The End-to-End iris recognition pipeline is illustrated in Figure 1. The first p
 
 Figure 1: End to end security identification iris recognition pipeline.
 
+**Our Demonstrate Novel algorithm FOR Iris Segmentation** 
+
+{% include embed.html url="https://www.youtube.com/embed/kr1hQWQcb-Q" %}
 
 + Collaborative Optimization Algorithm 
 
@@ -60,7 +63,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 + **Our Demonstrate End_to_End Security Identification Iris Recognition** 
 
-{% include embed.html url="https://www.youtube.com/embed/jjNKqPcei8Y" %}
+{% include embed.html url="https://www.youtube.com/embed/kr1hQWQcb-Q" %}
 
 
 
