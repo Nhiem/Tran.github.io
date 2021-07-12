@@ -62,7 +62,7 @@ https://colab.research.google.com/drive/1vPD-FrPNcch9kro_NabkBnlUvJVj8sF5?usp=sh
 
 
 #### 3. Method Mathematic & Details Information: 
-Article for  **Deep Collaborative Optimization Techniques** :<a href="https://github.com/Nhiem/tran.github.io/blob/master/tinymlDeep Collaborative Optimization Techniques1..pdf.pdf" target="_blank">PDF.</a>
+Article for  **Deep Collaborative Optimization Techniques** :<a href="https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Deep_Collaborative_Optimization_Techniques1.pdf" target="_blank">PDF.</a>
 
 
 
