@@ -63,7 +63,7 @@ The first primary open-source hardware platform for the iris recognition, it wil
 
 + **Our Demonstrate End_to_End Security Identification Iris Recognition** 
 
-{% include embed.html url="https://www.youtube.com/embed/kr1hQWQcb-Q" %}
+{% include embed.html url="https://www.youtube.com/embed/jjNKqPcei8Y" %}
 
 
 
