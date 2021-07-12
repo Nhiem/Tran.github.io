@@ -37,8 +37,8 @@ The main concept of our algorithm, **first** using knowledge distillation which 
 
 #### 1.Knowledge Distillation
 
+<!-- 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Equation_Knowledge_distillation.PNG?raw=true" width=500/>
-
-
+-->
 
 
