@@ -24,8 +24,14 @@ We propose **End_to_End approach computer vision on embedded devices** is a comp
 
 ### Collaborative optimization algorithm pipline detail.
 
+Our goals! to create practical neural-network based algorithms to address the issue of deploying large model size can’t fit into memory of embedded device. We proposed the machine learning algorithm base on combination: 
+[**knowledge Distillation**] **+** [**Deep Compression**] (Model weight Pruning --> Model weight Clustering --> Model Quantization (Low bit precision and Quantization Noise)
 
-[**knowledge Distillation**] + [**Deep Compression**] **(Model weight Pruning --> Model weight Clustering --> Model Quantization (Low bit precision and Quantization Noise)**
 
-Our goals! to create practical neural-network based algorithms to address the issue of deploying large model size can’t fit into memory of embedded device. We proposed the machine learning algorithm base on combination **knowledge distillation** and **deep model compression** of CNNs model. 
-The main concept of our algorithm first using knowledge distillation which focus on techniques train the large and complex network on ensemble model which can extract important features from the given data. The knowledge from the complex model that call teacher model can transfer the knowledge to new smaller model call student model to obtain high-accuracy. Second, we jointly train deep model with different deep compression technique in different parts of model including parameter pruning, clustering, aware quantization during training and post training quantization. The main advantage of the algorithm extremely compresses the deep CNNs model with optimization model by knowledge distillation and jointly deep compression.
+The main concept of our algorithm, **first** using knowledge distillation which focus on techniques train the large and complex network on ensemble model which can extract important features from the given data. The knowledge from the complex model that call teacher model can transfer the knowledge to new smaller model call student model to obtain high-accuracy. **Second**, we jointly train deep model with different deep compression technique in different parts of model including parameter pruning, clustering, aware quantization during training and post training quantization. The main advantage of the algorithm extremely compresses the deep CNNs model with optimization model by knowledge distillation and jointly deep compression.
+
+
+
+
+
+
