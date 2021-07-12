@@ -50,7 +50,7 @@ informational connection, and followed by applying weight clustering which will 
 Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training. The combination collaborative optimization of pruning, clustering, and quantization will compress the network without interfering with each other and will lead to a significanthigh compression ratio. As the result of optimization makes the storage required by tens and a hundred MB to a few MB of size and significantly reduces more than an order of 
 magnitude of the model complexity, the storage requirement, and the increased latency  performance of the model, and less low energy consumption.  
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Collaborative_optimization.png?raw=true" width=400/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Collaborative_optimization.png?raw=true" width=700/>
 
 **Example of Deep Compression on Resnet50 - MobileNetV2 can be found in Deeployment Notebook Below**
 + MobileNetV2 
@@ -61,8 +61,8 @@ https://colab.research.google.com/drive/1vPD-FrPNcch9kro_NabkBnlUvJVj8sF5?usp=sh
 
 
 
-
-
+#### 3. Method Mathematic & Details Information: 
+Article for  **Deep Collaborative Optimization Techniques** :<a href="https://github.com/Nhiem/tran.github.io/blob/master/tinymlDeep Collaborative Optimization Techniques1..pdf.pdf" target="_blank">PDF.</a>
 
 
 
