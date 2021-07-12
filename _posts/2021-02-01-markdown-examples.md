@@ -37,8 +37,35 @@ The main concept of our algorithm, **first** using knowledge distillation which 
 
 #### 1.Knowledge Distillation
 
-<!-- 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Equation_Knowledge_distillation.PNG?raw=true" width=500/>
--->
+Knowledge distillation is a model compression method that was first proposed by Bucila et al. [10] and generalized by Hinton et al. [11]. In general, it can be described as a special instance of learning with privileged information, e.g. Vapnik & Izmailov [12] In distillation knowledge or the extraction of features of a given supervised dataset is transferred from the large complex model call the teacher model to the smaller model call student model that mimic teacher model by minimizing a loss function with the target is the distribution class probabilities predicted by teacher model.
+
+[10] [Bucila, Caruana, and Niculescu-Mizil 2006] Bucila, C.; Caruana, R.; and Niculescu-Mizil, A. 2006. Model compression. In SIGKDD, 535–541. ACM.
+[11] [Hinton, Vinyals, and Dean 2015] Hinton, G.; Vinyals, O.; and Dean, J. 2015. Distilling the knowledge in a neural network. In NIPS Deep Learning and Representation Learning Workshop.
+[12] [Lopez-Paz et al. 2015] Lopez-Paz, D.; Bottou, L.; Scholkopf, B.; and Vapnik, V. 2015. Unifying distillation and privileged information. arXiv preprint arXiv:1511.03643.
+
+#### 2. Deep Compression Pipeline [Model parameter Pruning --> Clustering(paramters sharing same values) --> Quantization(low bit preicision int4, int8) ]
+
+Both the teacher model and student from Distillation Technique's jointly apply **collaborative optimization** at each convolution layer. We deploy the model’s collaborative optimizing weight pruning technique to eliminate the redundant connection while retaining meaning and 
+informational connection, and followed by applying weight clustering which will share the same weight across multiple connections. 
+Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training. The combination collaborative optimization of pruning, clustering, and quantization will compress the network without interfering with each other and will lead to a significanthigh compression ratio. As the result of optimization makes the storage required by tens and a hundred MB to a few MB of size and significantly reduces more than an order of 
+magnitude of the model complexity, the storage requirement, and the increased latency  performance of the model, and less low energy consumption.  
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Collaborative_optimization.png?raw=true" width=400/>
+
+**Example of Deep Compression on Resnet50 - MobileNetV2 can be found in Deeployment Notebook Below**
++ MobileNetV2 
+https://colab.research.google.com/drive/1wraoCjrIalXSWRTftNJuVMYc3D26N4xw?usp=sharing 
+
++ Resnet 50
+https://colab.research.google.com/drive/1vPD-FrPNcch9kro_NabkBnlUvJVj8sF5?usp=sharing 
+
+
+
+
+
+
+
+
+
 
 
