@@ -30,7 +30,11 @@ Our goals! to create practical neural-network based algorithms to address the is
 
 The main concept of our algorithm, **first** using knowledge distillation which focus on techniques train the large and complex network on ensemble model which can extract important features from the given data. The knowledge from the complex model that call teacher model can transfer the knowledge to new smaller model call student model to obtain high-accuracy. **Second**, we jointly train deep model with different deep compression technique in different parts of model including parameter pruning, clustering, aware quantization during training and post training quantization. The main advantage of the algorithm extremely compresses the deep CNNs model with optimization model by knowledge distillation and jointly deep compression.
 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Knowledge_distillation_model_compression.png?raw=true" width=700/>
 
+#### 1.Knowledge Distillation
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Equation_Knowledge_distillation.PNG?raw=true" width=100/>
 
 
 
