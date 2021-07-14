@@ -1,5 +1,5 @@
 ---
-title:  "TinyML -- Collaborative Optimization -- Binary Neural Networks"
+title:  "TinyML -- Collaborative Optimization "
 mathjax: true
 layout: post
 categories: media
@@ -43,21 +43,40 @@ Knowledge distillation is a model compression method that was first proposed by 
 [11] [Hinton, Vinyals, and Dean 2015] Hinton, G.; Vinyals, O.; and Dean, J. 2015. Distilling the knowledge in a neural network. In NIPS Deep Learning and Representation Learning Workshop.
 [12] [Lopez-Paz et al. 2015] Lopez-Paz, D.; Bottou, L.; Scholkopf, B.; and Vapnik, V. 2015. Unifying distillation and privileged information. arXiv preprint arXiv:1511.03643.
 
-#### 2. Deep Compression Pipeline [Model parameter Pruning --> Clustering(paramters sharing same values) --> Quantization(low bit preicision int4, int8) ]
+#### 2. Deep Compression Pipeline 
+
+**[Model parameter Pruning --> Clustering(paramters sharing same values) --> Quantization(low bit preicision int4, int8) ]**
 
 Both the teacher model and student from Distillation Technique's jointly apply **collaborative optimization** at each convolution layer. We deploy the model’s collaborative optimizing weight pruning technique to eliminate the redundant connection while retaining meaning and 
 informational connection, and followed by applying weight clustering which will share the same weight across multiple connections. 
-Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training. The combination collaborative optimization of pruning, clustering, and quantization will compress the network without interfering with each other and will lead to a significanthigh compression ratio. As the result of optimization makes the storage required by tens and a hundred MB to a few MB of size and significantly reduces more than an order of 
+Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training. The combination collaborative optimization of pruning, clustering, and quantization will compress the network without interfering with each other and will lead to a significant high compression ratio. As the result of optimization makes the storage required by tens and a hundred MB to a few MB of size and significantly reduces more than an order of 
 magnitude of the model complexity, the storage requirement, and the increased latency  performance of the model, and less low energy consumption.  
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Collaborative_optimization.png?raw=true" width=700/>
 
-**Example of Deep Compression on Resnet50 - MobileNetV2 can be found in Deeployment Notebook Below**
-+ MobileNetV2 
-https://colab.research.google.com/drive/1wraoCjrIalXSWRTftNJuVMYc3D26N4xw?usp=sharing 
 
-+ Resnet 50
-https://colab.research.google.com/drive/1vPD-FrPNcch9kro_NabkBnlUvJVj8sF5?usp=sharing 
+#### 3. Deep Compression Experiment on Embedded CPUs Systems: 
+
+The experiment conducted on two embedded hardware platform from NVIDIA Jetson Nano & Raspberry Pi. Both hardwares development platform using Arm Cortex A architectures. 
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/embedded_CPU_Experiment.png?raw=true" width=700/>
+
+The design of model optimizations is depending on the tasks, you might need to make tradeoff between model complexity, size, performance. If the applications require high accuracy, then you might need to design large and complex model. For tasks that require less precission, you should use a smaller model because they not only use less disk space and memory, but they are also generally faster and more energy efficient.
+
+Experiment Conducted MobileNetV2 with Deep Compression Pipeline.
+
+**Notebook--Code** 
+**https://colab.research.google.com/drive/1wraoCjrIalXSWRTftNJuVMYc3D26N4xw?usp=sharing** 
+
+1. The model was firs apply sparsity from [50% to 80% zeros in weights] sparsity by [**Constantsparsity**, **Schedule**, **Prunable**, **PruneForLatency**] we can customize the layers to aplly the sparsity, usually the layer take most computation like **Conv2D** and **Dense** layer.
+
+2. Following Apply the cluster_weights() to enforce the model's parameter to share the same value by Kmean cluster{Cluster centroid can be initialized **LINEAR**, **RANDOM**, **DENSITY_BASED**, **KMEANS_PLUS_PLUS**} 
+
+3. Last is the Quantizations, Deep compression pipeline implement [**Quantization Aware Training** or **Post Quantization**].  For the model **Quantization Aware Training** emulates inference-time quantization that inject the model the errors cause by quantize lower-precision (e.g. 4-bit, 8-bit instead of 32-bit float) model can be update learn during training, leading to benefits during deployment.
+**Model Post Quantization** includes general techniques to reduce CPU and hardware accelerator latency, processing, power, and model size with little degradation in model accuracy. Model parameter can be quantize to 4-bits, 8-bits, 16-bits instead of 32 bits.
+
+#### Result of Model reduction Size and Model Accuracy -- Model Convert to .tflite format for speed up infrence in embedded CPUs
+
 
 
 
