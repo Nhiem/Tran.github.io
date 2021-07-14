@@ -83,7 +83,7 @@ Experiment Conducted MobileNetV2 with Deep Compression Pipeline.
 2. **Model Accuracy** 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/model_accuracy.png?raw=true" width=700/>
 
-3. **Model Inference Time -- Memory Usages.
+3. **Model Inference Time -- Memory Usages.**
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/experiment_Raspi.png?raw=true" width=600/> 
 
