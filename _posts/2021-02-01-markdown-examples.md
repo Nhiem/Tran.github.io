@@ -77,8 +77,14 @@ Experiment Conducted MobileNetV2 with Deep Compression Pipeline.
 
 #### Result of Model reduction Size and Model Accuracy -- Model Convert to .tflite format for speed up infrence in embedded CPUs
 
+1. **Model Size Reductions** 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/model_size.png?raw=true" width=700/>
 
+2. **Model Accuracy** 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/model_accuracy.png?raw=true" width=700/>
 
+3. **Model Inference Time -- Memory Usages.
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/experiment_Raspi.png?raw=true" width=600/> <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/jetson_nano_experiment.png?raw=true" width=600/>
 
 #### 3. Method Mathematic & Details Information: 
 Article for  **Deep Collaborative Optimization Techniques** :<a href="https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Deep_Collaborative_Optimization_Techniques.pdf" target="_blank">PDF.</a>
