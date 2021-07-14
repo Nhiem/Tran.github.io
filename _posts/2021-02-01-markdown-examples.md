@@ -4,9 +4,9 @@ mathjax: true
 layout: post
 categories: media
 ---
-# Bringing Machine Learning Algorithms to Edge, Embedded Devices.  
+# Bringing Machine Learning Algorithms Embedded CPUs- GPUs Devices.  
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/tinyml_MCU.png?raw=true" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/nvidia-jetson-nano-vs-raspberry-pi-featured.jpg?raw=true" />
 
 
 ## 1. Deep Collaborative Optimization Techniques.  
