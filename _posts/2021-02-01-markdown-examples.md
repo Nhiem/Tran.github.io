@@ -1,10 +1,10 @@
 ---
-title:  "TinyML -- Collaborative Optimization "
+title:  "Deep Collaborative Optimization Bringing Machine Learning Algorithms Embedded CPUs- GPUs"
 mathjax: true
 layout: post
 categories: media
 ---
-# Bringing Machine Learning Algorithms Embedded CPUs- GPUs Devices.  
+
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/nvidia-jetson-nano-vs-raspberry-pi-featured.jpg?raw=true" width="600" />
 
