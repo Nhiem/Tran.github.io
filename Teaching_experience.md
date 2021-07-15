@@ -1,8 +1,8 @@
 
 ---
 title: "Teaching Experiences"
-permalink: "/about/"
-layout: post
+<!-- permalink: "/about/"
+layout: post -->
 ---
 
 
