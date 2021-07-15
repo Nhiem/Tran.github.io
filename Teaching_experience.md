@@ -1,6 +1,6 @@
 
 ---
-title: "About"
+title: "Teaching Experiences"
 permalink: "/about/"
 layout: post
 ---
