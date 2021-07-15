@@ -1,6 +1,7 @@
 
 ---
-title: "Teaching Experiences"
+# "Teaching Experiences" 
+<!-- title: "Teaching Experiences" -->
 <!-- permalink: "/about/"
 layout: post -->
 ---
