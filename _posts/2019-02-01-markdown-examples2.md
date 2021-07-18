@@ -59,7 +59,8 @@ To consider our TinyML applications by the **algorithm complexity** to **power c
 
 ### 2. Machine Learning Framework 
 
-**#### How to Train and Deployment your Machine Model?**
+#### **How to Train and Deployment your Machine Model?**
+
 There are many different framework that you can deploy for TinyML application as shown in figure below. 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/model_size_reduction.png?raw=true" width="550" />
@@ -71,23 +72,23 @@ https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-7-Runnin
 
 **+ Runing Models XCubeAI**
 
-**https://www.st.com/resource/en/user_manual/dm00570145-getting-started-with-xcubeai-expansion-package-for-artificial-intelligence-ai-stmicroelectronics.pdf**
+https://www.st.com/resource/en/user_manual/dm00570145-getting-started-with-xcubeai-expansion-package-for-artificial-intelligence-ai-stmicroelectronics.pdf
 
 
 The most popular and handful is **Tensorflow Lite & Tensorflow Lite Micro**, With TensorFlow there are a number of different ways you can deploy these models. The overall **TensorFlow ecosystem** can be represented using a diagram like this -- with the left side of the diagram showing the architecture and APIs that can be used for training models. 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/the_overal_eco_system.png?raw=true" width="550" />
 
-+ The standard **TensorFlow models** that you’ve been creating this far, trained without any post-training modification can be deployed to Cloud or Servers. **https://www.tensorflow.org/tfx/guide/serving**
++ The standard **TensorFlow models** that you’ve been creating this far, trained without any post-training modification can be deployed to Cloud or Servers. https://www.tensorflow.org/tfx/guide/serving
 
-+ TensorFlow Lite is a runtime that is optimized for smaller systems such as Android, iOS and embedded systems that run a variant of Linux, such as a Raspberry Pi. **https://www.tensorflow.org/lite/microcontrollers**
++ TensorFlow Lite is a runtime that is optimized for smaller systems such as Android, iOS and embedded systems that run a variant of Linux, such as a Raspberry Pi. https://www.tensorflow.org/lite/microcontrollers
 
 + TensorFlow.js provides a javascript-based library that can be used both for training models and running inference on them in JavaScript-based environments such as the Web Browsers or Node.js.
-**https://www.tensorflow.org/js** 
+https://www.tensorflow.org/js
 
 + TensorFlow Lite Micro, which is built on top of TensorFlow Lite and can be used to shrink your model **even further to work on microcontrollers** and is a core enabling technology for TinyML
 **Detail about tensorflow Lite Micro For embedded MCUs and CPUs**. 
-**https://www.tensorflow.org/lite/microcontrollers** 
+https://www.tensorflow.org/lite/microcontrollers
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Tensorflow_lite_Micro.png?raw=true" width="550" />
 
