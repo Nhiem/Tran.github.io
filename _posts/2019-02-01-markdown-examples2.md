@@ -114,7 +114,7 @@ Three main important fields for TinyML applications:
 +  With IoT Home, the home fits seamlessly into the resident's family. New home appliances powered by internet connectivity, such as smoke detectors, televisions, refrigerators, smart lighting and heating, are now constantly using sensor technology to gather data from the physical world around us.
 
 
-## III. TinyML Design Principles. 
+<!-- ## III. TinyML Design Principles. 
 
 We will think about the ML Life cycle, how the applications will build on the top of each others
-
+ -->
