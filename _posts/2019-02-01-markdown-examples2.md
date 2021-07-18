@@ -8,7 +8,7 @@ categories: media
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Post_Picture.png?raw=true" width="700" />
 
-## Concept of TinyML
+## I. Concept of TinyML
 
 ### **What is Tiny Machine Learning (TinyML) ?**
 
@@ -37,6 +37,21 @@ In the applcations, The Data doesn’t have to be sent to the server store infor
 **4. Cost Efficient:**
 
 Microcontrollers facilitate automation and embedded control in electronic systems, as well as the connection of sensors and applications to the IoT. These handy little devices are also exceedingly cheap, with an average price of 60 cents per unit (and dropping).
+
+## II. TinyML PipeLine Developments. 
+
+### 1. Tiny Hardware
+
+In TinyML application on MCUs and Embedded CPUs general will deploy on Arm chip architecture. 
+**Why is Arm MCU and CPUs?**
+The Arm architecture is one of the most popular processor architectures in the world today. 
++ Small processor for lower power consumption
++ Hide Code density for limited memory and physical size restrictions
++ The ability to use slow and low-cost memory
+
+There are three architecture profiles: **A, R and M**
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/arm_cortex_family.png?raw=true" width="550" />
 
 
 
