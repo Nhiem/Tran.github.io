@@ -79,7 +79,7 @@ The most popular and handful is **Tensorflow Lite & Tensorflow Lite Micro**, Wit
 **Detail about tensorflow Lite Micro For embedded MCUs and CPUs**. 
 **https://www.tensorflow.org/lite/microcontrollers** 
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/model_size_reduction.png?raw=true" width="550" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Tensorflow_lite_Micro.png?raw=true" width="550" />
 
 
 
