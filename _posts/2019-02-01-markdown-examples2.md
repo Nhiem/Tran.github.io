@@ -59,10 +59,20 @@ To consider our TinyML applications by the **algorithm complexity** to **power c
 
 ### 2. Machine Learning Framework 
 
-**How to Train and Deployment your Machine Model?**
+**#### How to Train and Deployment your Machine Model?**
 There are many different framework that you can deploy for TinyML application as shown in figure below. 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/model_size_reduction.png?raw=true" width="550" />
+
+**Example Using XCubeAI, Tensorflow Lite, and TVM deploy ML models for TinyML applications **
+
+**+ Runing Models with TFlite in Colab**
+https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-7-RunningTFLiteModels.ipynb
+
+**+ Runing Models XCubeAI**
+
+**https://www.st.com/resource/en/user_manual/dm00570145-getting-started-with-xcubeai-expansion-package-for-artificial-intelligence-ai-stmicroelectronics.pdf**
+
 
 The most popular and handful is **Tensorflow Lite & Tensorflow Lite Micro**, With TensorFlow there are a number of different ways you can deploy these models. The overall **TensorFlow ecosystem** can be represented using a diagram like this -- with the left side of the diagram showing the architecture and APIs that can be used for training models. 
 
@@ -80,6 +90,7 @@ The most popular and handful is **Tensorflow Lite & Tensorflow Lite Micro**, Wit
 **https://www.tensorflow.org/lite/microcontrollers** 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Tensorflow_lite_Micro.png?raw=true" width="550" />
+
 
 
 
