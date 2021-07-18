@@ -14,7 +14,7 @@ categories: media
 
 TinyML is the field at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. TinyML explores and optimize machine learning algorithm That's can run on small, low-powered devices like microcontrollers MCUs.It enables low-latency, low power and low bandwidth model inference at edge devices.
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Applying_TinyML.png?raw=true" width="550" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Applying_TinyML.png?raw=true" width="450" />
 
 
 
