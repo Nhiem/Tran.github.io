@@ -10,7 +10,7 @@ categories: media
 
 # I. Concept of TinyML
 
-## **What is Tiny Machine Learning (TinyML) ?**
+### **What is Tiny Machine Learning (TinyML) ?**
 
 TinyML is the field at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. TinyML explores and optimize machine learning algorithm That's can run on small, low-powered devices like microcontrollers MCUs.It enables low-latency, low power and low bandwidth model inference at edge devices.
 
@@ -18,14 +18,14 @@ TinyML is the field at the intersection of embedded Machine Learning (ML) applic
 
 
 
-## **Why TinyML is important ?**
+### **Why TinyML is important ?**
 While **standard GPUs** training neural net consumes around 65 watts to 85wats, But typical **MCUs** like Arm cortex M3-M4 consumes power that **thousand times less** power consumption. 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/GPU_MCU_CPU.png?raw=true" width="550" />
 
 **The Future of ML applications is Tiny.**
 
-## **Advantages of TinyML**
+### **Advantages of TinyML**
 
 **1. Low Latency:** 
 
@@ -95,6 +95,23 @@ https://www.tensorflow.org/js
 https://www.tensorflow.org/lite/microcontrollers
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Tensorflow_lite_Micro.png?raw=true" width="550" />
+
+### 3. TinyML Applications 
+
+By summarizing and analyzing data at the edge on low power devices, TinyML offers many unique solutions. Even though TinyML is an emerging field. 
+Machine Learning Applications is real-world problems is really import range from computer visions to Audio-Voice, Sensor fusions.   
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/General_applications_of_MachineLearning.PNG?raw=true" width="550" />
+
+Three main important fields for TinyML applications: 
+
+1. **Industrial Predictive Maintenance**: Machines are prone to fault. Using TinyML on low powered devices, it is possible to monitor the machine and predict faults ahead of time constantly. This predictive maintenance can lead to significant cost savings.
+
+2. **Healthcare**: Globally, healthcare systems are facing increasing chronic symptoms and struggling with the pressure of increased costs, TinyML helps improve medical care, from follow-up to prevention to provide cost-effective operators for low-power electronic devices across healthcare
+
+3. **Civil Infrastructure - Logistics -- SmartHome**: Rely heavily on data for activities such as dynamic pricing, supply management, and analysis of future demand as they become more connected to the network through digital transformation. The integrity and security of this data is paramount to organizations that manage a wide range of critical infrastructures such as electricity, solar, gas, heat, and water.
++ The supply chain is becoming more complex and the need for effective logistics extends to all industries. IoT enables end-to-end visibility, how businesses transport products, manage inventory and mobile assets, replenish inventory, manage retail experiences, plan and perform maintenance Will be renewed.
++  With IoT Home, the home fits seamlessly into the resident's family. New home appliances powered by internet connectivity, such as smoke detectors, televisions, refrigerators, smart lighting and heating, are now constantly using sensor technology to gather data from the physical world around us.
 
 
 
