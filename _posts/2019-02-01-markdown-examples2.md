@@ -101,7 +101,7 @@ https://www.tensorflow.org/lite/microcontrollers
 By summarizing and analyzing data at the edge on low power devices, TinyML offers many unique solutions. Even though TinyML is an emerging field. 
 Machine Learning Applications is real-world problems is really import range from computer visions to Audio-Voice, Sensor fusions.   
 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/General_applications_of_MachineLearning.PNG?raw=true" width="550" />
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/General_applications_of_MachineLearning.PNG?raw=true" width="650" />
 
 Three main important fields for TinyML applications: 
 
