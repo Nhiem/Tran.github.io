@@ -107,13 +107,14 @@ Three main important fields for TinyML applications:
 
 1. **Industrial Predictive Maintenance**: Machines are prone to fault. Using TinyML on low powered devices, it is possible to monitor the machine and predict faults ahead of time constantly. This predictive maintenance can lead to significant cost savings.
 
-2. **Healthcare**: Globally, healthcare systems are facing increasing chronic symptoms and struggling with the pressure of increased costs, TinyML helps improve medical care, from follow-up to prevention to provide cost-effective operators for low-power electronic devices across healthcare
+2. **Healthcare**: Globally, healthcare systems are facing increasing chronic symptoms and struggling with the pressure of increased costs, TinyML helps improve medical care, from follow-up to prevention to provide cost-effective operators for low-power electronic devices across healthcare. 
 
 3. **Civil Infrastructure - Logistics -- SmartHome**: Rely heavily on data for activities such as dynamic pricing, supply management, and analysis of future demand as they become more connected to the network through digital transformation. The integrity and security of this data is paramount to organizations that manage a wide range of critical infrastructures such as electricity, solar, gas, heat, and water.
 + The supply chain is becoming more complex and the need for effective logistics extends to all industries. IoT enables end-to-end visibility, how businesses transport products, manage inventory and mobile assets, replenish inventory, manage retail experiences, plan and perform maintenance Will be renewed.
 +  With IoT Home, the home fits seamlessly into the resident's family. New home appliances powered by internet connectivity, such as smoke detectors, televisions, refrigerators, smart lighting and heating, are now constantly using sensor technology to gather data from the physical world around us.
 
 
+## III. TinyML Design Principles. 
 
-
+We will think about the ML Life cycle, how the applications will build on the top of each others
 
