@@ -14,6 +14,10 @@ categories: media
 
 TinyML is the field at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. TinyML explores and optimize machine learning algorithm That's can run on small, low-powered devices like microcontrollers MCUs.It enables low-latency, low power and low bandwidth model inference at edge devices.
 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Applying_TinyML.png?raw=true" width="700" />
+
+
+
 ### **Why TinyML is important ?**
 While **standard GPUs** training neural net consumes around 65 watts to 85wats, But typical **MCUs** like Arm cortex M3-M4 consumes power that **thousand times less** power consumption. 
 
@@ -65,7 +69,7 @@ There are many different framework that you can deploy for TinyML application as
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/model_size_reduction.png?raw=true" width="550" />
 
-**Example Using XCubeAI, Tensorflow Lite, and TVM deploy ML models for TinyML applications **
+**Example Using XCubeAI and Tensorflow Lite deploy ML models for TinyML applications**
 
 **+ Runing Models with TFlite in Colab**
 https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-7-RunningTFLiteModels.ipynb
