@@ -51,7 +51,12 @@ The Arm architecture is one of the most popular processor architectures in the w
 
 There are three architecture profiles: **A, R and M**
 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Arm_architecture family.PNG?raw=true" width="550" />
+
+To consider our TinyML applications by the **algorithm complexity** to **power consumption** from MCU to CPUs processers to decide which type of processor MCUs? or CPUs for our deployment.
+
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/arm_cortex_family.png?raw=true" width="550" />
+
 
 
 
