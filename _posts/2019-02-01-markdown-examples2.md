@@ -8,9 +8,9 @@ categories: media
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Post_Picture.png?raw=true" width="700" />
 
-## I. Concept of TinyML
+# I. Concept of TinyML
 
-### **What is Tiny Machine Learning (TinyML) ?**
+## **What is Tiny Machine Learning (TinyML) ?**
 
 TinyML is the field at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. TinyML explores and optimize machine learning algorithm That's can run on small, low-powered devices like microcontrollers MCUs.It enables low-latency, low power and low bandwidth model inference at edge devices.
 
@@ -18,14 +18,14 @@ TinyML is the field at the intersection of embedded Machine Learning (ML) applic
 
 
 
-### **Why TinyML is important ?**
+## **Why TinyML is important ?**
 While **standard GPUs** training neural net consumes around 65 watts to 85wats, But typical **MCUs** like Arm cortex M3-M4 consumes power that **thousand times less** power consumption. 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/GPU_MCU_CPU.png?raw=true" width="550" />
 
 **The Future of ML applications is Tiny.**
 
-### **Advantages of TinyML**
+## **Advantages of TinyML**
 
 **1. Low Latency:** 
 
