@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto: tvnhiemhmus@g.ncu.edu.tw"}
   - {title: Github, icon: github, url: "https://github.com/Nhiem"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/TranRick1"}
-  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/tran-nhiem-ab1851125/"}
+  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/tran-nhiem-ab1851125/"}
   - {file: "phone.md", icon: phone}
   
 
