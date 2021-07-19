@@ -153,13 +153,11 @@ Capture a sufficient amount of representative data about the phenomenon that is 
 Raw data has been acquired from sensors need to be labeled and pre-processing. The data sets must be characterized so that the different outputs can be classified correctly. 
 
 **3 Machine Learning Model**
-
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/training_model.png?raw=true" width="100" />
 
 The Neural Network in an iterative manner so that the Network's outputs can minimize desirable error criteria. Training, and testing is typically performed using off-the-shelf Deep Learning frameworks. This is usually done on a powerful computing platform with computational power such sever and cloud, to allow many iterations in a short period of time.
 
 **4 Convert ML into optimized code for MCUs**
-
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/convert_model.png?raw=true" width="100" />
 
 The next step is to embed the pre-trained ML algorithm into an MCU (optimized code minimizing complexity and memory requirements).
