@@ -114,7 +114,58 @@ Three main important fields for TinyML applications:
 +  With IoT Home, the home fits seamlessly into the resident's family. New home appliances powered by internet connectivity, such as smoke detectors, televisions, refrigerators, smart lighting and heating, are now constantly using sensor technology to gather data from the physical world around us.
 
 
-<!-- ## III. TinyML Design Principles. 
 
-We will think about the ML Life cycle, how the applications will build on the top of each others
- -->
+## III. TinyML Design Principles. 
+
+In order to design optimally TinyML applications, we have to overcome the major challenges implement machine learning in embedded devices. 
+There are three important principles:
+**Principle 1: Minimize Feature Scope for Portability**
+Most embedded devices are resource constraints including memory, computing cability. In TinyML, machine learning model, input data, output prediction are in memory. Embedded ML engineer should really consider to design optimal and efficient algorithm to overcome the contrains objectives in embedded devices. 
+
+*Example of Memory usage of specific Embedded devices*
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/memory_usage.png?raw=true" width="650" />
+
+**Principle 2: Embedded devices Ecosystem**
+
+Because the difference of Embedded devices plateforms there is no one-size-fits-all optimzation solution.As a result of device fragmentation, developers can’t build software that runs well on different embedded platforms. In order to tackle this challenge, the authors ensure that optimizing the core library operations is easy.
+
+
+**Principle 3: Reuse Tools and Scalability**
+
+Exporting a model comes with its own set of challenges. It is also important to note that most models are trained on floating operations and these operations consume more space and memory and would therefore be unsuitable for an embedded device. This can be addressed by converting them to a quantized representation. This, however, increases the exporter complexity. To address these challenges, a converter is built on top of the existing TensorFlow Lite toolchain. 
+
+
+## IV TinyML Implementation End-to-End Pipeline
+
+**TinyML Life Cycle**
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/Life_cycle_ML.png?raw=true" width="650" />
+
+**1 Capture Data** 
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/capture_data.png?raw=true" width="300" />
+
+Capture a sufficient amount of representative data about the phenomenon that is being modeled. This usually involves placing sensors on or near the object being monitored in order to record its state and changes over the time. Examples of physical parameters include acceleration, temperature, sound, and visual depending on your application.
+
+**2 Processing Clean, label Data**
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/clean_data.png?raw=true" width="300" />
+
+Raw data has been acquired from sensors need to be labeled and pre-processing. The data sets must be characterized so that the different outputs can be classified correctly. 
+
+**3 Machine Learning Model**
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/clean_data.png?raw=true" width="300" />
+
+The Neural Network in an iterative manner so that the Network's outputs can minimize desirable error criteria. Training, and testing is typically performed using off-the-shelf Deep Learning frameworks. This is usually done on a powerful computing platform with computational power such sever and cloud, to allow many iterations in a short period of time.
+
+**4 Convert ML into optimized code for MCUs**
+
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/convert_model.png?raw=true" width="300" />
+
+The next step is to embed the pre-trained ML algorithm into an MCU (optimized code minimizing complexity and memory requirements).
+
+**5 Process & analyze on real-world data**
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/tinyml/Binary_Neural_Network/process_analysis.png?raw=true" width="300" />
+
+Finally, deploy ML algorithm embedded in an MCU in your application.
+
