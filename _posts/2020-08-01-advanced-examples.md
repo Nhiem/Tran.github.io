@@ -157,7 +157,6 @@ TDR impedance analyzer is embedded in centrifuge DAQ system by connecting with c
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/LabVIEW_program.jpg?raw=true" width="600" /> 
 Fig 3. TDR transmission line impedance analyzer TDR1500*8 SYMPULS, (b) LabVIEW program interface controls TDR analyzer for taking waveform reflection.
                                                                                                 
-
 -->
 
 
