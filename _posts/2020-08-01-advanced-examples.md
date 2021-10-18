@@ -1,4 +1,3 @@
-
 ---
 title:"Biometric Recognition - eLearning Education Applications"
 mathjax: true
