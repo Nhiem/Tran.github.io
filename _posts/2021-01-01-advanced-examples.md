@@ -1,7 +1,7 @@
 
 
 ---
-title:  "Efficient MachineLearning for Biometric Recognition -Applications "
+title:  "Efficient MachineLearning for Biometric Recognition -Applications"
 mathjax: true
 layout: post
 categories: media
@@ -18,7 +18,7 @@ While at the undergraduate and graduate levels. The diverse topics include scien
 
 
 
-### I. Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 � 07/2021)
+### I. Iris Recognition on IoTs, Embedded, Mobiles Applications ( 01/2021 Ð 07/2021)
 
 This project aims to ensure robust security for all devices, authorization, and authentication are the critically important factor to strongly against the vulnerability or attack from the internet to billions of our embedded mobiles and IoT devices now much more asynchronously integrated through the internet.
 
@@ -45,7 +45,7 @@ Figure 1: End to end security identification iris recognition pipeline.
 
 In this study, we develop a collaborative optimization technique for iris recognition as shown in Figure 2, the method with combining various techniques. This includes model weight pruning, clustering, and quantization during training. Our main goal is to reduce the memory footprint, and complexity of the model needed to run large neural networks of inference on a device with limited memory, storage, and power.
 
-We deploy the model’s collaborative optimizing weight pruning technique to eliminate the redundant connection while retaining meaning and informational connection, and followed by applying weight clustering which will share the same weight across multiple connections. Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training.
+We deploy the modelâ€™s collaborative optimizing weight pruning technique to eliminate the redundant connection while retaining meaning and informational connection, and followed by applying weight clustering which will share the same weight across multiple connections. Eventually, the quantization aware training applied from the int4, int8 bit precision quantization is deployed during the training.
 
 
 
