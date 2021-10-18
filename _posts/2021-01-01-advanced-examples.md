@@ -61,11 +61,10 @@ The first primary open-source hardware platform for the iris recognition, it wil
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/iris_recognition_figure_proposal.png?raw=true"  width="400"/>
 
 
-
-+ **Our Demonstrate End_to_End Security Identification Iris Recognition** 
+<!-- + **Our Demonstrate End_to_End Security Identification Iris Recognition** 
 
 {% include embed.html url="https://www.youtube.com/embed/jjNKqPcei8Y" %}
-
+ -->
 
 
 
