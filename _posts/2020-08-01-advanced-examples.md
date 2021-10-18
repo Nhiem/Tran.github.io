@@ -1,6 +1,6 @@
 
 ---
-title:  "Efficient MachineLearning for Biometric Recognition -Applications "
+title:  " Biometric Recognition -eLearning Education Applications "
 mathjax: true
 layout: post
 categories: media
