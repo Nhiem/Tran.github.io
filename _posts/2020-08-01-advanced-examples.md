@@ -1,6 +1,7 @@
 
 ---
-title:  "Biometric Recognition -eLearning Education Applications"
+title:  "Biometric Recognition - eLearning Education Applications "
+
 mathjax: true
 layout: post
 categories: media
