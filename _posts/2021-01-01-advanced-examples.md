@@ -1,5 +1,3 @@
-
-
 ---
 title:  "Efficient MachineLearning for Biometric Recognition -Applications"
 mathjax: true
