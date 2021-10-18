@@ -1,13 +1,13 @@
 
 ---
-title:  " Biometric Recognition -eLearning Education Applications "
+title:  "Biometric Recognition -eLearning Education Applications"
 mathjax: true
 layout: post
 categories: media
 ---
 
 # Biometric Recognition  -- Computer Vision -- Machine Learning Research 
-<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/Logo.png?raw=true" width="600"/>
+<img src= "https://github.com/Nhiem/tran.github.io/blob/master/_posts/eye_Tracking.jpeg?raw=true" width="600"/>
 
 
 ## Collaborative and Independents Research
