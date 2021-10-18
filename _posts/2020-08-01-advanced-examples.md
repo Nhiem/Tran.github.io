@@ -1,10 +1,9 @@
 
 ---
-title:  "Biometric Recognition - eLearning Education Applications"
+title:"Biometric Recognition - eLearning Education Applications"
 mathjax: true
 layout: post
 categories: media
-
 ---
 
 # Biometric Recognition  -- Computer Vision -- Machine Learning Research 
