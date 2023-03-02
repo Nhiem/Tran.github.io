@@ -12,12 +12,12 @@ layout: post
 From 2021 to present, I have been leading self-supervised learning projects at Foxconn AI. In this role, I have been responsible for developing and implementing cutting-edge self-supervised learning algorithms, designing experiments to evaluate their effectiveness, and collaborating with cross-functional teams to apply these models to real-world problems. Additionally, I have provided technical guidance and mentorship to junior team members, and have contributed to the company's research and development roadmap. My work at Foxconn AI has allowed me to gain deep expertise in the fields of computer vision and natural language processing, and has given me invaluable experience in developing solutions for real-world problems using state-of-the-art AI techniques.
 
 
- <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_3149_Original.jpg?raw=true" width="350" />
+ <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_3149_Original.jpg?raw=true" width="550" />
  
 <div>
-  <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1762_Original.jpg?raw=true" width="150" />
+  <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1762_Original.jpg?raw=true" width="200" />
   <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1803_Original.jpg?raw=true" width="150" />
-  <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1753_Original.jpg?raw=true" width="350" />
+  <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1753_Original.jpg?raw=true" width="150" />
 </div>
 
 ## Pursuing Ph.D. in Computer Science.  
