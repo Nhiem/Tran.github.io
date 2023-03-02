@@ -7,13 +7,13 @@ layout: post -->
 ---
 
 
-**Acknowledge my Master's advisor Dr. Chung, Chih Chung provided invaluable guidance for me throughout a teaching assistant experience and my master program.** 
+**I am glad to acknowledge the invaluable guidance and support provided by my Master's advisor, Dr. Chung Chih Chung. Throughout my teaching assistant experience and master's program, his mentorship has been instrumental in shaping my academic and professional development..** 
 
 <img src= "https://github.com/Nhiem/tran.github.io/blob/master/_data/font-awesome/picture_with_prof_chung.JPG?raw=true" width="450"/>
 
 
 
-My assistant teaching experimence provides and help strengthen my skills, sharing my knowledge, and helping other student to learn much more efficient and imporve their skills. 
+My experience as a teaching assistant has been invaluable in enhancing my skills, allowing me to share my knowledge with others, and helping students learn more efficiently to improve their skills.
 
 ## **Course Participated:** 
 
