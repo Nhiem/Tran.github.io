@@ -20,7 +20,7 @@ From 2021 to present, I have been leading self-supervised learning projects at F
   <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1753_Original.jpg?raw=true" width="150" />
 </div>
 
-## Pursuing Ph.D. in Computer Science.  
+## Ph.D. Candidate in Computer Science.  
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/National-Central-University.jpg?raw=true" width="350" />
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/maxresdefault.jpg?raw=true" />
 
@@ -35,7 +35,6 @@ I am thrilled to embark on a new chapter of my journey at NCU-Delta Machine Lear
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1039.JPG?raw=true" width="400" /> 
 --> 
 <img src="https://github.com/Nhiem/tran.github.io/blob/master/_posts/IMG_1011.jpg?raw=true"  width="400" />
-
 
 
 ## M.S Information Technology Application, earned July/2020
